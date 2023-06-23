@@ -93,9 +93,13 @@
   border: none;
   background-color: transparent;
   padding: 0;
+<<<<<<< HEAD
   background: transparent
     url("https://raw.githubusercontent.com/arqu33n/weatherWidget/e98996c934111df515dc101c20df6acb217428b0/icon/edit.svg")
     center/contain no-repeat;
+=======
+  background: transparent url("https://raw.githubusercontent.com/arqu33n/weatherWidget/e98996c934111df515dc101c20df6acb217428b0/icon/edit.svg") center/contain no-repeat;
+>>>>>>> bf11dba8d506efae3680b27e6c33b5a54d64cc21
 }
 
 .widget__temp-big {
